@@ -1,6 +1,9 @@
 # neko.exe
 neko is kawaii - a joke program lmao
 
+## How it work?
+Hmmm, change desktop background, delete all items in User/Desktop folder, and a Nice Dialog nyaaaaa
+
 ## Developing
 Please make sure you have the following prerequisites:
 
